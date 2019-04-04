@@ -10,16 +10,27 @@
 FAKTY OKRESLONE
 
 0 Poziom zadłużenia jest niekorzystny 2
+
 1 Poziom zadłużenia jest korzystny 1
+
 2 Poziom rentowności jest niekorzystny 2
+
 3 Poziom rentowności jest korzystny 1
+
 4 Oferta handlowa nie jest atrakcyjna 1
+
 5 Oferta handlowa jest atrakcyjna 2
+
 6 Sytuacja konkurencyjna jest niekorzystna 1
+
 7 Sytuacja konkurencyjna jest korzystna 2
+
 15 Opracowano wiarygodny plan naprawczy 2
+
 16 Opracowano dyskusyjny plan naprawczy 2
+
 17 Brak planu naprawczego 1
+
 
 FAKTY NIEOKRESLONE
 
