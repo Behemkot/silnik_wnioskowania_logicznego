@@ -16,7 +16,14 @@ namespace Wnioski
     public class Repozytorium
     {
         // tu należy wstawić aktualny namiar na arkusz z danymi
-        private static string strfile = "C:\\Users\\behem\\OneDrive\\Dokumenty\\WnStudenci\\SilnikC#1.xls";
+
+        // Dobre dane
+        private static string strfile = "C:\\Users\\behem\\OneDrive\\Dokumenty\\WnStudenci\\DaneWzor2.xls";
+        // Błędne dane
+        //private static string strfile = "C:\\Users\\behem\\OneDrive\\Dokumenty\\WnStudenci\\SilnikC#1.xls";
+
+
+        
         //****
         private static string ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + strfile + ";Extended Properties=Excel 5.0";  
         public static DataSet ds = new DataSet();
