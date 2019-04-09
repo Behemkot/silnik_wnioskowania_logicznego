@@ -48,6 +48,7 @@ namespace Wnioski
                         NoweFakty.Add(konkluzja);
                     }
                     tablicaFaktow[regula.Conc] = konkluzja;
+                    //Repozytorium.Zapisz(konkluzja.Id, konkluzja.Log);
                 }
 
                 wypisz_fakty(NoweFakty);
